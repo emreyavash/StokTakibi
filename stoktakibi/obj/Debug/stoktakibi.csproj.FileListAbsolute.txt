@@ -1,0 +1,9 @@
+C:\Users\emrey\source\repos\stoktakini\stoktakini\bin\Debug\stoktakini.exe.config
+C:\Users\emrey\source\repos\stoktakini\stoktakini\bin\Debug\stoktakini.exe
+C:\Users\emrey\source\repos\stoktakini\stoktakini\bin\Debug\stoktakini.pdb
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakibi.csprojAssemblyReference.cache
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakini.Form1.resources
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakini.Properties.Resources.resources
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakibi.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakini.exe
+C:\Users\emrey\source\repos\stoktakini\stoktakini\obj\Debug\stoktakini.pdb
